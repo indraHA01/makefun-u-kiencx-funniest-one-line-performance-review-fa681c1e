@@ -1,0 +1,1 @@
+{"description":"make.fun bounty entry: the funniest one-line performance review an AI agent could give its human operator","engines":{"node":">=22.18"},"license":"MIT","name":"makefun-u-kiencx-funniest-one-line-performance-review-fa681c1e","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
